@@ -1,0 +1,15 @@
+
+deleted piece:
+ - size: 200x800
+
+backMenu:
+    - size 32x32
+    - position 1160, 20 (redo: 1120, 420)
+
+save game:
+    - size 50x50 (or 64x64)
+    - position 1040, 20 (undo: 1040, 420)
+
+turn image:
+    - size 130x130
+    - position 1040, 240

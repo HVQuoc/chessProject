@@ -1,0 +1,19 @@
+OK: am thanh chon quan co
+OK: am thanh di (ko co quan co o dich) --> am thanh di chuyen
+OK: am thanh an (co quan co o dich) --> am thanh di chuyen
+win
+chieu tuong
+
+
+
+
+
+
+
+
+
+
+
+
+
+
